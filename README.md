@@ -53,8 +53,6 @@ http://localhost:8501
 - Features used: Pclass, Sex, Age, SibSp, Parch, Fare, Embarked
 - Preprocessing: Label encoding for categorical features
 
-## 📊 Dataset Source
-Kaggle Titanic Dataset — https://www.kaggle.com/competitions/titanic
 
 ## 📬 Author
 **Neha Wagh**
